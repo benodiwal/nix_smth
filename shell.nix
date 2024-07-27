@@ -12,7 +12,6 @@ pkgs.mkShell {
     gdb
     zlib
     valgrind
-    # For linter script on push hook
     python3
     glfw
     libGL
